@@ -130,21 +130,21 @@ No Twitter. I'm too busy training models that might eventually replace it.
 
 <div align="center">
 
-<br>
+<a href="https://github.com/MIKEY-44">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MIKEY-44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60A5FA&icon_color=3b82f6&text_color=94a3b8&count_private=true" height="170" />
+</a>
+<a href="https://github.com/MIKEY-44">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MIKEY-44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60A5FA&text_color=94a3b8&count_private=true" height="170" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=MIKEY-44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60A5FA&icon_color=3b82f6&text_color=94a3b8&cache_seconds=1800" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MIKEY-44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60A5FA&text_color=94a3b8&cache_seconds=1800" height="170" />
 
-<br><br>
+<a href="https://github.com/MIKEY-44">
+  <img src="https://github-profile-trophy.vercel.app/?username=MIKEY-44&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" />
+</a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=MIKEY-44&theme=tokyonight&no-frame=true&row=1&column=7&cache_seconds=1800" />
-
-<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=MIKEY-44&color=3b82f6&style=flat-square&label=Profile+Views" alt="profile views" />
 
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=120&section=footer&fontColor=60A5FA" />
-
 </div>
