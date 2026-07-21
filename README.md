@@ -134,8 +134,7 @@ No Twitter. I'm too busy training models that might eventually replace it.
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MIKEY-44&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60A5FA&icon_color=3b82f6&text_color=94a3b8&count_private=true" height="170" />
 </a>
 <a href="https://github.com/MIKEY-44">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MIKEY-44&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=60A5FA&text_color=94a3b8&count_private=true" height="170" />
-</a>
+  <img src="https://media.craiyon.com/0a9fd66573541737526fa67c4f2d1d693dc7ebef.webp" width="120" />
 
 
 <a href="https://github.com/MIKEY-44">
